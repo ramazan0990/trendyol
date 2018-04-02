@@ -1,2 +1,34 @@
 url:
-  trendyol:           https://www.trendyol.com/
+  trendyol:                       https://www.trendyol.com/
+
+other:
+  boutique:                       css=.ongoing-boutique-header
+  boutique_image3:                css=#dynamic-boutiques > div > div > div:nth-child(3) > div.butik-large-image > a > img
+  boutique_image6:                css=#dynamic-boutiques > div > div > div:nth-child(6) > div.butik-large-image > a > img
+  boutique_image9:                css=#dynamic-boutiques > div > div > div:nth-child(9) > div.butik-large-image > a > img
+  boutique_image12:               css=#dynamic-boutiques > div > div > div:nth-child(12) > div.butik-large-image > a > img
+  boutique_image15:               css=#dynamic-boutiques > div > div > div:nth-child(15) > div.butik-large-image > a > img
+  boutique_image18:               css=#dynamic-boutiques > div > div > div:nth-child(19) > div.butik-large-image > a > img
+  boutique_image20:               css=#container > div.wrapper.stickyStop > div.small-boutique-main > div > div:nth-child(1) > div.butik-small-image > a > img
+  catagory_first_product:         css=#dynamic-boutiques > div > div > div:nth-child(1) > div.butik-large-image > a > img
+  first_product:                  css=#init-products-container\20 grid-4 > div:nth-child(1) > div > a > div.product-image-container
+  add_to_basket:                  css=.add-to-basket-button
+
+
+Homepage:
+  login_button:                   css=.login-register-button-container
+
+Login:
+  username_input:                 email
+  password_input:                 password
+
+category:
+  women_category:                 css=#item2 > a
+  male_category:                  css=#item3 > a
+  child_category:                 css=#item4 > a
+  sportswear:                     css=#item5 > a
+  shoe_bag:                       css=#item6 > a
+  hour_accessory:                 css=#item7 > a
+  cosmetic_category:              css=#item8 > a
+  home_life:                      css=#item9 > a
+  fast_delivery:                  css=#item10 > a
